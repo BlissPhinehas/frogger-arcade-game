@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# Frogger Arcade Game
 
 
@@ -54,3 +55,7 @@ python frogger.py
 
 
 
+=======
+# frogger-arcade-game
+Classic Frogger game recreation with player movement, cars, collision detection, and win conditions
+>>>>>>> 3934239ae413e8b670b8d9eee0f17d2b8137b618
